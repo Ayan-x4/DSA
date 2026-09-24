@@ -11,10 +11,6 @@ class Solution {
                     char ch = word2.charAt(i);
                     MSA += ch;
                 }
-
-
-
-
             }
         return MSA;
     }
